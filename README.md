@@ -71,6 +71,6 @@ My resume is available in the Resume folder of this repository.
 
 ## Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/raphsec/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPLiFbH1SS%2Bq7ZhQ%2Faw%2BX6A%3D%3D]
+LinkedIn: [www.linkedin.com/in/raphsec]
 
 GitHub: [https://github.com/raphsec]
